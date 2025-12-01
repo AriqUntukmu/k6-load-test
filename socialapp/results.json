@@ -1,0 +1,252 @@
+{
+  "userId": 4519,
+  "data": {
+    "original_token": 10132,
+    "cut_token": 6924,
+    "free_tweets": 67,
+    "dna": [
+      {
+        "unique_id": "web3_&_referral_marketing",
+        "title": "Web3 & Referral Marketing",
+        "description": "This trait highlights the user's engagement with referral marketing strategies within the Web3 space. The user actively shares referral links and codes, promoting specific projects and incentivizing others to join, showcasing a focus on community growth and earning opportunities through these networks.",
+        "percentage": 25,
+        "tweet_mention": "Hey @375ai_ this is my validation code: \n\nJoin me and get a bonus when you sign up!\n\nhttps://t.co/d3X99qi2h6",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3,
+        "time": "2025-09-13T16:40:38.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Promoting Web3 Projects",
+            "insight_description": "The user leverages their network to increase the adoption of Web3 projects."
+          },
+          {
+            "insight_title": "Monetization Strategy",
+            "insight_description": "Referral codes are used as a direct method of earning rewards and incentives in the Web3 space."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_faucet_participation",
+        "title": "Web3 Faucet Participation",
+        "description": "This trait describes the user's involvement in claiming testnet tokens from OKX Wallet faucets. The user shares their successful claims, encouraging others to participate in similar activities. This suggests an interest in testing and exploring new blockchain applications.",
+        "percentage": 20,
+        "tweet_mention": "I just received 0.2 PHRS from the OKX Wallet testnet faucets! Join me to claim more testnet tokens! https://t.co/FbAMf7iFD5",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 3,
+        "time": "2025-09-12T09:52:09.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Early Adopter",
+            "insight_description": "The user is interested in new technologies and actively seeks opportunities to try out new platforms."
+          },
+          {
+            "insight_title": "Community Engagement",
+            "insight_description": "User invites others to join in the testnet token claiming, promoting community participation."
+          }
+        ]
+      },
+      {
+        "unique_id": "elon_musk_&_tech_culture",
+        "title": "Elon Musk & Tech Culture",
+        "description": "This trait showcases the user's engagement with Elon Musk and broader tech-related topics. The user interacts with Musk's tweets, offering opinions and expressing interest in Tesla and AI developments, indicating an interest in technology.",
+        "percentage": 15,
+        "tweet_mention": "@elonmusk hope it finally stops crashing every 5 minutes",
+        "likes": 4,
+        "replies": 0,
+        "retweets": 0,
+        "views": 14,
+        "time": "2025-08-20T15:12:27.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Tech Enthusiast",
+            "insight_description": "The user is very likely to be interested in the intersection of technology and business."
+          },
+          {
+            "insight_title": "Current Events",
+            "insight_description": "The user actively engages with news and content related to current technology trends and developments."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_project_promotion",
+        "title": "Web3 Project Promotion",
+        "description": "The user is actively involved in promoting various Web3 projects, including those focused on data management, AI, and decentralized networks. This trait suggests the user's involvement in the Web3 space.",
+        "percentage": 15,
+        "tweet_mention": "Join me and @blockcastNet on an exciting mission to build a community-powered content delivery network, scale the internet, and earn some internet money along the way! \ndcbb\nhttps://t.co/FMpbTQaJAn #Blockcast #CDN #DePIN",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 1,
+        "time": "2025-08-22T19:44:34.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Web3 Advocate",
+            "insight_description": "The user is a vocal advocate for Web3 technology."
+          },
+          {
+            "insight_title": "Community Builder",
+            "insight_description": "The user seeks to involve and grow a community around Web3 projects."
+          }
+        ]
+      },
+      {
+        "unique_id": "ai_&_blockchain_rewards",
+        "title": "AI & Blockchain Rewards",
+        "description": "This trait reflects the user's interest in projects that combine AI with blockchain technology, particularly those that offer rewards for sharing resources, like unused internet bandwidth. The user is interested in innovative projects.",
+        "percentage": 10,
+        "tweet_mention": "@elonmusk \"Wow, turning your WiFi into a money maker is legendary! With #SparkChainAI, you can earn $SOL from unused internet bandwidth on a decentralized network. Check it out!\"",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 10,
+        "time": "2025-06-26T09:50:44.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Innovative Tech Adoption",
+            "insight_description": "The user is interested in utilizing new technology to its full potential."
+          },
+          {
+            "insight_title": "Crypto Rewards",
+            "insight_description": "The user is interested in earning cryptocurrencies."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_&_referral_marketing",
+        "title": "Web3 & Referral Marketing",
+        "description": "The user is engaged in promotional activities within the Web3 space. They promote projects and encourage others to join, showcasing a focus on community growth and earning opportunities through these networks.",
+        "percentage": 5,
+        "tweet_mention": "OpenLayer is democratizing how authentic data is being brought on chain. \nUse my referral code to earn points on the OpenLayer extension: https://t.co/XagXevutDx. Referral codes: null",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 1,
+        "time": "2025-09-09T16:34:07.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Promotion of Web3 Tools",
+            "insight_description": "The user promotes the usage of various Web3 tools."
+          },
+          {
+            "insight_title": "Incentivized Participation",
+            "insight_description": "User promotes participation in Web3 projects by offering rewards."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_community_&_project_promotion",
+        "title": "Web3 Community & Project Promotion",
+        "description": "This trait showcases the user's active participation in the Web3 community by retweeting content. The user is interested in the Web3 space.",
+        "percentage": 5,
+        "tweet_mention": "RT @weRoamxyz: Want to join the Roam X Umy Events?\n\nThis article has everything you need to know, from how to join to the rewards you can g\n",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 616,
+        "views": 0,
+        "time": "2025-09-01T13:15:26.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Community Amplification",
+            "insight_description": "The user is helping to grow a Web3 community."
+          },
+          {
+            "insight_title": "Project Visibility",
+            "insight_description": "The user is actively promoting visibility for Web3 projects."
+          }
+        ]
+      },
+      {
+        "unique_id": "casual_&_general_social",
+        "title": "Casual & General Social",
+        "description": "This trait shows the user's general social interactions, including retweets and responses, that do not specifically align with any other identified traits, reflecting a general social activity.",
+        "percentage": 5,
+        "tweet_mention": "@elonmusk Looks like my reading list just got a serious upgrade!",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 10,
+        "time": "2025-08-20T15:11:53.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "General Social Engagement",
+            "insight_description": "User expresses interest and interaction with public figures."
+          },
+          {
+            "insight_title": "Simple Acknowledgments",
+            "insight_description": "User is casually acknowledging posts, indicating general activity."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_&_community_engagement",
+        "title": "Web3 & Community Engagement",
+        "description": "This trait highlights the user's interest in earning rewards by completing tasks within the MemoLabsOrg platform. The user also shows engagement with the platform by mentioning it.",
+        "percentage": 5,
+        "tweet_mention": "\nI found a platform that can own, manage and monetize your data @MemoLabsOrg!\n\n\nCurrently all users can participate, and you can easily get points rewards by completing tasks, and you can also redeem more value!\n\n\nExperience now https://t.co/sAHnzDioK3",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 7,
+        "time": "2025-08-20T14:48:25.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Data Ownership",
+            "insight_description": "User promotes platforms focused on data ownership."
+          },
+          {
+            "insight_title": "Incentivized Participation",
+            "insight_description": "The user engages in rewards-based Web3 platforms."
+          }
+        ]
+      },
+      {
+        "unique_id": "web3_project_advocacy",
+        "title": "Web3 Project Advocacy",
+        "description": "This trait demonstrates the user's interest in mining on the Spider Network, as well as other Web3 projects that offer rewards. The user promotes projects.",
+        "percentage": 5,
+        "tweet_mention": "Make your phone work for you! \n\n Earn $WEB by mining on Spider Network. Start mining today: \n\n @SpiderNetworkHQ #CryptoRewards",
+        "likes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "views": 15,
+        "time": "2025-08-19T03:39:33.000Z",
+        "ai_insight": [
+          {
+            "insight_title": "Promotion of Web3 projects",
+            "insight_description": "The user is engaged in promoting various Web3 projects, particularly those that offer rewards."
+          },
+          {
+            "insight_title": "Reward-Based Participation",
+            "insight_description": "The user is interested in earning cryptocurrencies."
+          }
+        ]
+      }
+    ],
+    "new_dna": [
+      {
+        "unique_id": "web3_&_referral_marketing",
+        "title": "Web3 & Referral Marketing",
+        "description": "This trait highlights the user's engagement with referral marketing strategies within the Web3 space. The user actively shares referral links and codes, promoting specific projects and incentivizing others to join, showcasing a focus on community growth and earning opportunities through these networks."
+      },
+      {
+        "unique_id": "web3_faucet_participation",
+        "title": "Web3 Faucet Participation",
+        "description": "This trait describes the user's involvement in claiming testnet tokens from OKX Wallet faucets. The user shares their successful claims, encouraging others to participate in similar activities. This suggests an interest in testing and exploring new blockchain applications."
+      },
+      {
+        "unique_id": "web3_&_referral_marketing",
+        "title": "Web3 & Referral Marketing",
+        "description": "The user is engaged in promotional activities within the Web3 space. They promote projects and encourage others to join, showcasing a focus on community growth and earning opportunities through these networks."
+      },
+      {
+        "unique_id": "web3_&_community_engagement",
+        "title": "Web3 & Community Engagement",
+        "description": "This trait highlights the user's interest in earning rewards by completing tasks within the MemoLabsOrg platform. The user also shows engagement with the platform by mentioning it."
+      }
+    ]
+  }
+}

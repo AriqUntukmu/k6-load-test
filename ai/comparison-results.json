@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-11T00:44:35.801Z",
+  "test_duration": 68725.08,
+  "robyn_api": {
+    "avg_response_time": 1825.4907424242424,
+    "p95_response_time": 2505.4791999999998,
+    "error_rate": 0,
+    "total_requests": 264,
+    "total_attempts": 264
+  },
+  "fastapi": {
+    "avg_response_time": 2395.651333333333,
+    "p95_response_time": 3306.8547,
+    "error_rate": 0,
+    "total_requests": 264,
+    "total_attempts": 264
+  },
+  "winner": {
+    "avg_response_time": "Robyn",
+    "p95_response_time": "Robyn",
+    "error_rate": "FastAPI",
+    "throughput": "FastAPI"
+  }
+}

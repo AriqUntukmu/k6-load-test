@@ -1,0 +1,8 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTEsImlhdCI6MTcyOTIwNDU3MCwiZXhwIjoxNzI5MjIyNTcwfQ.passxxC0v6rhyZipnTe9fPCMHSR79TRq6pxnRNDfnns",
+    "domain": "https://api-demo.foruai.io/",
+    "apikey": "cf0f454d84a2b4e401be6b6875d7df80fd1c7eb2f7074248405802a78f865a7f",
+    "timestamp": 1729204583688,
+    "signature": "e652c70509df523c6717376f9e00ba233debb388a2910a74d695dd43e04f4bc6"
+
+}
